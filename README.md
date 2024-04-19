@@ -1,2 +1,4 @@
 # Linear-Regression-Practical
-practical implementation of linear regression usin sklearn 
+Lineare Regression moled on california_housing dataset using sklearn
+
+
